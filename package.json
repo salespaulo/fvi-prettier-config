@@ -1,6 +1,6 @@
 {
     "name": "fvi-prettier-config",
-    "version": "1.0.3",
+    "version": "0.0.0",
     "description": "FVI Co. - Prettier Configuration",
     "publishConfig": {
         "registry": "http://ec2-34-230-6-254.compute-1.amazonaws.com:4873"
