@@ -2,9 +2,6 @@
     "name": "fvi-prettier-config",
     "version": "0.0.0",
     "description": "FVI Co. - Prettier Configuration",
-    "publishConfig": {
-        "registry": "http://ec2-34-230-6-254.compute-1.amazonaws.com:4873"
-    },
     "main": "index.js",
     "scripts": {
         "compile": "grunt compile",
@@ -24,7 +21,7 @@
         "config",
         "upstatement"
     ],
-    "repository": "//git-codecommit.us-east-1.amazonaws.com/v1/repos/fvi-prettier-config",
+    "repository": "https://github.com/salespaulo/fvi-prettier-config.git",
     "author": {
         "name": "FVI",
         "email": "tech@fvi.com",
