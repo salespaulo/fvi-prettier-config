@@ -1,7 +1,7 @@
 {
-    "name": "i-prettier-config",
+    "name": "fvi-prettier-config",
     "version": "1.0.3",
-    "description": "Intelligir Co. - Prettier Configuration",
+    "description": "FVI Co. - Prettier Configuration",
     "publishConfig": {
         "registry": "http://ec2-34-230-6-254.compute-1.amazonaws.com:4873"
     },
@@ -24,11 +24,11 @@
         "config",
         "upstatement"
     ],
-    "repository": "//git-codecommit.us-east-1.amazonaws.com/v1/repos/i-prettier-config",
+    "repository": "//git-codecommit.us-east-1.amazonaws.com/v1/repos/fvi-prettier-config",
     "author": {
-        "name": "Intelligir",
-        "email": "tech@intelligir.com",
-        "twitter": "@intelligir"
+        "name": "FVI",
+        "email": "tech@fvi.com",
+        "twitter": "@fvi"
     },
     "license": "MIT",
     "dependencies": {
